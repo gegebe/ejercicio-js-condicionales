@@ -2,6 +2,8 @@
 ¿Que va a mostrar por el terminal cuando hagamos node ex2.js? ¿Por qué?
 */
 
+// Cuack!
+
 let numero = 3;
 
 if (numero < 2) {

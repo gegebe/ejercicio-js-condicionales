@@ -8,6 +8,8 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Opera
 
 */
 
+//La primera cumpla ambas condiciones, la segunda una de las dos no.
+
 if (4 > 3 && 6 > 5) {
   console.log("Esta condición se cumple");
 }

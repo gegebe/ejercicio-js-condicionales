@@ -9,4 +9,10 @@
 
 let numero = 5;
 
+if (numero >= 5) {
+  console.log("El valor es mayor de 5");
+} else {
+  console.log("El valor es menor de 5");
+}
+
 // AQUÍ DEBAJO TU CÓDIGO. Necesitas codificar una estructura if...else. Mira los ejemplos anteriores. Cambia el valor de la variable "numero" para comprobar que has implementado bien la solución
